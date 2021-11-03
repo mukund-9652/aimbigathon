@@ -7,7 +7,7 @@
  *
  * @package    socialstreams
  * @subpackage socialstreams/facebook
- * @author     ThemePunch <info@themepunch.com>
+ * @author     
  */
 
 class TP_facebook {
