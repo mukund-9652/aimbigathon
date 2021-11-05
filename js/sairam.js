@@ -1,4 +1,4 @@
-// © Copyright 2020 - Archi 4.0 by Designesia 
+// © Copyright 2020 - Archi 4.0 by sairam 
 
 jQuery(document).ready(function () {
     'use strict';				// use strict mode
